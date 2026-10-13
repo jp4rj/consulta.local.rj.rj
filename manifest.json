@@ -1,6 +1,6 @@
 {
-  "name": "Locais de Votação - Rio de Janeiro",
-  "short_name": "Locais de Votação",
+  "name": "De-Para na Palma da Mão",
+  "short_name": "De-Para 2026",
   "description": "Consulta de local de votação - Eleições 2026 - Município do Rio de Janeiro",
   "start_url": "/consulta.local.rj.rj/",
   "display": "standalone",
